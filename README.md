@@ -1,6 +1,3 @@
-# ICDAR2017_POD_dataset_supplement
-The supplement of ICDAR2017 POD's table object subset annotations for table structure recognition
-
 
 # ICDAR2017_POD_dataset_supplement
 
