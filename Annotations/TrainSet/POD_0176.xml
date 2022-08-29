@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="POD_0176.jpg">
+    <table>
+        <Coords points="169,740 889,740 889,878 169,878"/>
+        <cell id="0" neighbors="1:L 12:B">
+            <Coords points="780,750 825,750 825,769 780,769"/>
+        </cell>
+        <cell id="1" neighbors="0:R 2:L 6:B">
+            <Coords points="608,750 649,750 649,769 608,769"/>
+        </cell>
+        <cell id="2" neighbors="1:R 3:B">
+            <Coords points="433,750 475,750 475,769 433,769"/>
+        </cell>
+        <cell id="3" neighbors="2:T 4:B 6:R 9:L">
+            <Coords points="411,785 496,785 496,806 411,806"/>
+        </cell>
+        <cell id="4" neighbors="3:T 5:B 7:R 10:L">
+            <Coords points="409,816 499,816 499,835 409,835"/>
+        </cell>
+        <cell id="5" neighbors="4:T 8:R 11:L">
+            <Coords points="406,849 501,849 501,868 406,868"/>
+        </cell>
+        <cell id="6" neighbors="1:T 3:L 7:B 12:R">
+            <Coords points="585,785 671,785 671,804 585,804"/>
+        </cell>
+        <cell id="7" neighbors="4:L 6:T 8:B 13:R">
+            <Coords points="582,816 672,816 672,835 582,835"/>
+        </cell>
+        <cell id="8" neighbors="5:L 7:T 14:R">
+            <Coords points="578,848 676,848 676,868 578,868"/>
+        </cell>
+        <cell id="9" neighbors="3:R 10:B">
+            <Coords points="178,785 276,785 276,808 178,808"/>
+        </cell>
+        <cell id="10" neighbors="4:R 9:T 11:B">
+            <Coords points="177,815 351,815 351,838 177,838"/>
+        </cell>
+        <cell id="11" neighbors="5:R 10:T">
+            <Coords points="177,849 299,849 299,867 177,867"/>
+        </cell>
+        <cell id="12" neighbors="0:T 6:L 13:B">
+            <Coords points="758,784 848,784 848,804 758,804"/>
+        </cell>
+        <cell id="13" neighbors="7:L 12:T 14:B">
+            <Coords points="747,816 858,816 858,835 747,835"/>
+        </cell>
+        <cell id="14" neighbors="8:L 13:T">
+            <Coords points="752,848 849,848 849,868 752,868"/>
+        </cell>
+    </table>
+</document>

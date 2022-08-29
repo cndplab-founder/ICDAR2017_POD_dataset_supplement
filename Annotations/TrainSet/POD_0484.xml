@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="POD_0484.jpg">
+    <table>
+        <Coords points="348,289 693,289 693,404 348,404"/>
+        <cell id="0" neighbors="1:R 11:B">
+            <Coords points="358,290 447,290 447,306 358,306"/>
+        </cell>
+        <cell id="1" neighbors="0:L 2:R 7:B">
+            <Coords points="465,290 567,290 567,306 465,306"/>
+        </cell>
+        <cell id="2" neighbors="1:L 3:B">
+            <Coords points="585,289 685,289 685,306 585,306"/>
+        </cell>
+        <cell id="3" neighbors="2:T 4:B 7:L">
+            <Coords points="612,314 657,314 657,331 612,331"/>
+        </cell>
+        <cell id="4" neighbors="3:T 5:B 8:L">
+            <Coords points="613,339 655,339 655,357 613,357"/>
+        </cell>
+        <cell id="5" neighbors="4:T 6:B 9:L">
+            <Coords points="619,363 651,363 651,383 619,383"/>
+        </cell>
+        <cell id="6" neighbors="5:T 10:L">
+            <Coords points="619,389 651,389 651,406 619,406"/>
+        </cell>
+        <cell id="7" neighbors="1:T 3:R 8:B 11:L">
+            <Coords points="494,314 538,314 538,332 494,332"/>
+        </cell>
+        <cell id="8" neighbors="4:R 7:T 9:B 12:L">
+            <Coords points="494,339 537,339 537,356 494,356"/>
+        </cell>
+        <cell id="9" neighbors="5:R 8:T 10:B 13:L">
+            <Coords points="499,364 532,364 532,382 499,382"/>
+        </cell>
+        <cell id="10" neighbors="6:R 9:T 14:L">
+            <Coords points="499,388 532,388 532,405 499,405"/>
+        </cell>
+        <cell id="11" neighbors="0:T 7:R 12:B">
+            <Coords points="356,313 404,313 404,331 356,331"/>
+        </cell>
+        <cell id="12" neighbors="8:R 11:T 13:B">
+            <Coords points="357,338 402,338 402,356 357,356"/>
+        </cell>
+        <cell id="13" neighbors="9:R 12:T 14:B">
+            <Coords points="357,362 430,362 430,382 357,382"/>
+        </cell>
+        <cell id="14" neighbors="10:R 13:T">
+            <Coords points="357,388 403,388 403,405 357,405"/>
+        </cell>
+    </table>
+</document>

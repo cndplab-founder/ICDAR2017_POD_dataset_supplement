@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="POD_1058.jpg">
+    <table>
+        <Coords points="140,92 499,92 499,179 140,179"/>
+        <cell id="0" neighbors="1:R 2:B">
+            <Coords points="149,96 239,96 239,111 149,111"/>
+        </cell>
+        <cell id="1" neighbors="0:L 5:B">
+            <Coords points="257,96 341,96 341,114 257,114"/>
+        </cell>
+        <cell id="2" neighbors="0:T 3:B 5:R">
+            <Coords points="150,117 204,117 204,136 150,136"/>
+        </cell>
+        <cell id="3" neighbors="2:T 4:B 6:R">
+            <Coords points="150,137 230,137 230,156 150,156"/>
+        </cell>
+        <cell id="4" neighbors="3:T 7:R">
+            <Coords points="149,159 215,159 215,178 149,178"/>
+        </cell>
+        <cell id="5" neighbors="1:T 2:L 6:B">
+            <Coords points="258,117 491,117 491,135 258,135"/>
+        </cell>
+        <cell id="6" neighbors="3:L 5:T 7:B">
+            <Coords points="258,136 446,136 446,156 258,156"/>
+        </cell>
+        <cell id="7" neighbors="4:L 6:T">
+            <Coords points="257,159 449,159 449,179 257,179"/>
+        </cell>
+    </table>
+    <table>
+        <Coords points="126,235 512,235 512,321 126,321"/>
+        <cell id="0" neighbors="1:B 7:R">
+            <Coords points="136,239 173,239 173,254 136,254"/>
+        </cell>
+        <cell id="1" neighbors="0:T 2:B 6:R">
+            <Coords points="137,264 147,264 147,275 137,275"/>
+        </cell>
+        <cell id="2" neighbors="1:T 3:B 5:R">
+            <Coords points="137,279 148,279 148,296 137,296"/>
+        </cell>
+        <cell id="3" neighbors="2:T 4:R">
+            <Coords points="137,305 156,305 156,319 137,319"/>
+        </cell>
+        <cell id="4" neighbors="3:L 5:T">
+            <Coords points="191,301 424,301 424,319 191,319"/>
+        </cell>
+        <cell id="5" neighbors="2:L 4:B 6:T">
+            <Coords points="192,280 504,280 504,299 192,299"/>
+        </cell>
+        <cell id="6" neighbors="1:L 5:B 7:T">
+            <Coords points="192,260 361,260 361,274 192,274"/>
+        </cell>
+        <cell id="7" neighbors="0:L 6:B">
+            <Coords points="192,239 275,239 275,258 192,258"/>
+        </cell>
+    </table>
+</document>

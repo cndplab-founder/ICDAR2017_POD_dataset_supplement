@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="POD_2080.jpg">
+    <table>
+        <Coords points="374,817 875,817 875,1020 374,1020"/>
+        <cell id="0" neighbors="1:R 4:B">
+            <Coords points="425,888 463,888 463,903 425,903"/>
+        </cell>
+        <cell id="1" neighbors="0:L 2:R">
+            <Coords points="556,888 597,888 597,906 556,906"/>
+        </cell>
+        <cell id="2" neighbors="1:L 3:R 9:B">
+            <Coords points="650,881 748,881 748,916 650,916"/>
+        </cell>
+        <cell id="3" neighbors="2:L 16:B">
+            <Coords points="767,888 867,888 867,903 767,903"/>
+        </cell>
+        <cell id="4" neighbors="0:T 5:R">
+            <Coords points="380,927 504,927 504,957 380,957"/>
+        </cell>
+        <cell id="5" neighbors="4:L 6:B 9:R">
+            <Coords points="518,930 561,930 561,942 518,942"/>
+        </cell>
+        <cell id="6" neighbors="5:T 7:B 10:R">
+            <Coords points="517,954 560,954 560,968 517,968"/>
+        </cell>
+        <cell id="7" neighbors="6:T 8:B 11:R">
+            <Coords points="518,978 558,978 558,992 518,992"/>
+        </cell>
+        <cell id="8" neighbors="7:T 12:R">
+            <Coords points="518,1001 558,1001 558,1015 518,1015"/>
+        </cell>
+        <cell id="9" neighbors="2:T 5:L 10:B 16:R">
+            <Coords points="642,927 667,927 667,939 642,939"/>
+        </cell>
+        <cell id="10" neighbors="6:L 9:T 11:B 15:R">
+            <Coords points="644,953 665,953 665,964 644,964"/>
+        </cell>
+        <cell id="11" neighbors="7:L 10:T 12:B 14:R">
+            <Coords points="643,976 665,976 665,988 643,988"/>
+        </cell>
+        <cell id="12" neighbors="8:L 11:T 13:R">
+            <Coords points="643,1000 667,1000 667,1012 643,1012"/>
+        </cell>
+        <cell id="13" neighbors="12:L 14:T">
+            <Coords points="765,1000 785,1000 785,1013 765,1013"/>
+        </cell>
+        <cell id="14" neighbors="11:L 13:B 15:T">
+            <Coords points="765,977 781,977 781,988 765,988"/>
+        </cell>
+        <cell id="15" neighbors="10:L 14:B 16:T">
+            <Coords points="763,952 781,952 781,963 763,963"/>
+        </cell>
+        <cell id="16" neighbors="3:T 9:L 15:B">
+            <Coords points="763,928 782,928 782,940 763,940"/>
+        </cell>
+    </table>
+</document>

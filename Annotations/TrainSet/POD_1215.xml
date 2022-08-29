@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="POD_1215.jpg">
+    <table>
+        <Coords points="123,913 904,913 904,1131 123,1131"/>
+        <cell id="0" neighbors="1:B 6:L">
+            <Coords points="775,916 876,916 876,965 775,965"/>
+        </cell>
+        <cell id="1" neighbors="0:T 2:B 7:L">
+            <Coords points="803,976 848,976 848,993 803,993"/>
+        </cell>
+        <cell id="2" neighbors="1:T 3:B 8:L">
+            <Coords points="804,1007 848,1007 848,1025 804,1025"/>
+        </cell>
+        <cell id="3" neighbors="2:T 4:B 24:L">
+            <Coords points="804,1038 847,1038 847,1055 804,1055"/>
+        </cell>
+        <cell id="4" neighbors="3:T 5:B 23:L">
+            <Coords points="804,1068 847,1068 847,1085 804,1085"/>
+        </cell>
+        <cell id="5" neighbors="4:T 25:L">
+            <Coords points="814,1100 838,1100 838,1113 814,1113"/>
+        </cell>
+        <cell id="6" neighbors="0:R 7:B 9:L">
+            <Coords points="627,916 727,916 727,965 627,965"/>
+        </cell>
+        <cell id="7" neighbors="1:R 6:T 8:B 10:L">
+            <Coords points="673,977 681,977 681,991 673,991"/>
+        </cell>
+        <cell id="8" neighbors="2:R 7:T 11:L 24:B">
+            <Coords points="665,1008 692,1008 692,1022 665,1022"/>
+        </cell>
+        <cell id="9" neighbors="6:R 10:B 12:L">
+            <Coords points="469,917 574,917 574,965 469,965"/>
+        </cell>
+        <cell id="10" neighbors="7:R 9:T 11:B 13:L">
+            <Coords points="510,976 536,976 536,991 510,991"/>
+        </cell>
+        <cell id="11" neighbors="8:R 10:T 14:L 26:B">
+            <Coords points="503,1007 540,1007 540,1022 503,1022"/>
+        </cell>
+        <cell id="12" neighbors="9:R 13:B">
+            <Coords points="316,947 387,947 387,961 316,961"/>
+        </cell>
+        <cell id="13" neighbors="10:R 12:T 14:B 15:L">
+            <Coords points="293,976 414,976 414,991 293,991"/>
+        </cell>
+        <cell id="14" neighbors="11:R 13:T 16:L 18:B">
+            <Coords points="325,1007 381,1007 381,1022 325,1022"/>
+        </cell>
+        <cell id="15" neighbors="13:R 16:B">
+            <Coords points="140,976 252,976 252,991 140,991"/>
+        </cell>
+        <cell id="16" neighbors="14:R 15:T 17:B">
+            <Coords points="168,1008 223,1008 223,1022 168,1022"/>
+        </cell>
+        <cell id="17" neighbors="16:T 18:R 21:B">
+            <Coords points="134,1038 257,1038 257,1053 134,1053"/>
+        </cell>
+        <cell id="18" neighbors="14:T 17:L 20:B 26:R">
+            <Coords points="292,1038 412,1038 412,1056 292,1056"/>
+        </cell>
+        <cell id="19" neighbors="20:T 22:L 28:R">
+            <Coords points="278,1100 430,1100 430,1114 278,1114"/>
+        </cell>
+        <cell id="20" neighbors="18:T 19:B 21:L 27:R">
+            <Coords points="307,1069 399,1069 399,1086 307,1086"/>
+        </cell>
+        <cell id="21" neighbors="17:T 20:R 22:B">
+            <Coords points="149,1068 244,1068 244,1083 149,1083"/>
+        </cell>
+        <cell id="22" neighbors="19:R 21:T">
+            <Coords points="154,1097 240,1097 240,1114 154,1114"/>
+        </cell>
+        <cell id="23" neighbors="4:R 24:T 25:B 27:L">
+            <Coords points="665,1068 692,1068 692,1083 665,1083"/>
+        </cell>
+        <cell id="24" neighbors="3:R 8:T 23:B 26:L">
+            <Coords points="670,1038 685,1038 685,1053 670,1053"/>
+        </cell>
+        <cell id="25" neighbors="5:R 23:T 28:L">
+            <Coords points="666,1100 692,1100 692,1113 666,1113"/>
+        </cell>
+        <cell id="26" neighbors="11:T 18:L 24:R 27:B">
+            <Coords points="513,1039 530,1039 530,1053 513,1053"/>
+        </cell>
+        <cell id="27" neighbors="20:L 23:R 26:T 28:B">
+            <Coords points="510,1069 536,1069 536,1083 510,1083"/>
+        </cell>
+        <cell id="28" neighbors="19:L 25:R 27:T">
+            <Coords points="516,1100 526,1100 526,1114 516,1114"/>
+        </cell>
+    </table>
+</document>

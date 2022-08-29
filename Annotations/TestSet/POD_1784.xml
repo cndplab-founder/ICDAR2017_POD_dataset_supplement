@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="POD_1784.jpg">
+    <table>
+        <Coords points="258,1058 750,1058 750,1185 258,1185"/>
+        <cell id="0" neighbors="1:B 5:R">
+            <Coords points="306,1067 350,1067 350,1081 306,1081"/>
+        </cell>
+        <cell id="1" neighbors="0:T 2:B 6:R">
+            <Coords points="306,1100 377,1100 377,1114 306,1114"/>
+        </cell>
+        <cell id="2" neighbors="1:T 3:B 7:R">
+            <Coords points="307,1121 374,1121 374,1134 307,1134"/>
+        </cell>
+        <cell id="3" neighbors="2:T 4:B 8:R">
+            <Coords points="306,1141 376,1141 376,1153 306,1153"/>
+        </cell>
+        <cell id="4" neighbors="3:T 9:R">
+            <Coords points="306,1161 359,1161 359,1177 306,1177"/>
+        </cell>
+        <cell id="5" neighbors="0:L 6:B 10:R">
+            <Coords points="474,1069 529,1069 529,1083 474,1083"/>
+        </cell>
+        <cell id="6" neighbors="1:L 5:T 7:B 11:R">
+            <Coords points="475,1100 547,1100 547,1116 475,1116"/>
+        </cell>
+        <cell id="7" neighbors="2:L 6:T 8:B 12:R">
+            <Coords points="475,1121 539,1121 539,1134 475,1134"/>
+        </cell>
+        <cell id="8" neighbors="3:L 7:T 9:B 13:R">
+            <Coords points="475,1141 543,1141 543,1154 475,1154"/>
+        </cell>
+        <cell id="9" neighbors="4:L 8:T">
+            <Coords points="474,1165 526,1165 526,1176 474,1176"/>
+        </cell>
+        <cell id="10" neighbors="5:L 11:B">
+            <Coords points="643,1068 704,1068 704,1084 643,1084"/>
+        </cell>
+        <cell id="11" neighbors="6:L 10:T 12:B">
+            <Coords points="644,1101 673,1101 673,1114 644,1114"/>
+        </cell>
+        <cell id="12" neighbors="7:L 11:T 13:B">
+            <Coords points="645,1121 694,1121 694,1135 645,1135"/>
+        </cell>
+        <cell id="13" neighbors="8:L 12:T">
+            <Coords points="643,1142 690,1142 690,1156 643,1156"/>
+        </cell>
+    </table>
+</document>

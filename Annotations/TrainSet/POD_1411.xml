@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="POD_1411.jpg">
+    <table>
+        <Coords points="94,571 480,571 480,925 94,925"/>
+        <cell id="0" neighbors="1:R 3:B">
+            <Coords points="153,575 225,575 225,590 153,590"/>
+        </cell>
+        <cell id="1" neighbors="0:L 2:B">
+            <Coords points="355,575 411,575 411,590 355,590"/>
+        </cell>
+        <cell id="2" neighbors="1:T 3:L 4:B">
+            <Coords points="297,594 472,594 472,664 297,664"/>
+        </cell>
+        <cell id="3" neighbors="0:T 2:R 5:B">
+            <Coords points="104,594 278,594 278,683 104,683"/>
+        </cell>
+        <cell id="4" neighbors="2:T 5:L 7:B">
+            <Coords points="297,686 472,686 472,776 297,776"/>
+        </cell>
+        <cell id="5" neighbors="3:T 4:R 6:B">
+            <Coords points="104,686 278,686 278,794 104,794"/>
+        </cell>
+        <cell id="6" neighbors="5:T 7:R">
+            <Coords points="104,797 277,797 277,866 104,866"/>
+        </cell>
+        <cell id="7" neighbors="4:T 6:L">
+            <Coords points="297,797 472,797 472,923 297,923"/>
+        </cell>
+    </table>
+</document>

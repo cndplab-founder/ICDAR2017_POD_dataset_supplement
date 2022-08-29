@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="POD_1060.jpg">
+    <table>
+        <Coords points="170,1105 649,1105 649,1314 170,1314"/>
+        <cell id="0" neighbors="1:B">
+            <Coords points="177,1108 624,1108 624,1143 177,1143"/>
+        </cell>
+        <cell id="1" neighbors="0:T 2:B">
+            <Coords points="177,1144 644,1144 644,1242 177,1242"/>
+        </cell>
+        <cell id="2" neighbors="1:T">
+            <Coords points="177,1244 637,1244 637,1311 177,1311"/>
+        </cell>
+    </table>
+</document>

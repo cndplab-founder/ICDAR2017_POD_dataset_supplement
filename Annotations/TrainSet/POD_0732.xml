@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="POD_0732.jpg">
+    <table>
+        <Coords points="114,455 944,455 944,756 114,756"/>
+        <cell id="0" neighbors="1:B 5:R">
+            <Coords points="124,460 247,460 247,483 124,483"/>
+        </cell>
+        <cell id="1" neighbors="0:T 2:B 4:R">
+            <Coords points="125,546 216,546 216,565 125,565"/>
+        </cell>
+        <cell id="2" neighbors="1:T 3:B 7:R">
+            <Coords points="125,591 215,591 215,610 125,610"/>
+        </cell>
+        <cell id="3" neighbors="2:T 8:R 12:B">
+            <Coords points="126,636 216,636 216,654 126,654"/>
+        </cell>
+        <cell id="4" neighbors="1:L 5:T 7:B 9:R">
+            <Coords points="332,546 390,546 390,565 332,565"/>
+        </cell>
+        <cell id="5" neighbors="0:L 4:B 6:R">
+            <Coords points="348,465 371,465 371,482 348,482"/>
+        </cell>
+        <cell id="6" neighbors="5:L 9:B 18:R">
+            <Coords points="486,462 563,462 563,483 486,483"/>
+        </cell>
+        <cell id="7" neighbors="2:L 4:T 8:B 10:R">
+            <Coords points="332,591 391,591 391,609 332,609"/>
+        </cell>
+        <cell id="8" neighbors="3:L 7:T 11:R 15:B">
+            <Coords points="332,635 390,635 390,653 332,653"/>
+        </cell>
+        <cell id="9" neighbors="4:L 6:T 10:B 20:R">
+            <Coords points="503,547 540,547 540,565 503,565"/>
+        </cell>
+        <cell id="10" neighbors="7:L 9:T 11:B 21:R">
+            <Coords points="502,592 542,592 542,609 502,609"/>
+        </cell>
+        <cell id="11" neighbors="8:L 10:T 16:B 22:R">
+            <Coords points="502,635 542,635 542,653 502,653"/>
+        </cell>
+        <cell id="12" neighbors="3:T 13:B 15:R">
+            <Coords points="125,680 215,680 215,698 125,698"/>
+        </cell>
+        <cell id="13" neighbors="12:T 14:R">
+            <Coords points="125,725 214,725 214,745 125,745"/>
+        </cell>
+        <cell id="14" neighbors="13:L 15:T 17:R">
+            <Coords points="332,725 391,725 391,743 332,743"/>
+        </cell>
+        <cell id="15" neighbors="8:T 12:L 14:B 16:R">
+            <Coords points="332,681 391,681 391,698 332,698"/>
+        </cell>
+        <cell id="16" neighbors="11:T 15:L 17:B 23:R">
+            <Coords points="502,680 541,680 541,698 502,698"/>
+        </cell>
+        <cell id="17" neighbors="14:L 16:T 24:R">
+            <Coords points="503,725 542,725 542,744 503,744"/>
+        </cell>
+        <cell id="18" neighbors="6:L 19:R 20:B">
+            <Coords points="682,464 710,464 710,481 682,481"/>
+        </cell>
+        <cell id="19" neighbors="18:L 29:B">
+            <Coords points="821,461 902,461 902,483 821,483"/>
+        </cell>
+        <cell id="20" neighbors="9:L 18:T 21:B 29:R">
+            <Coords points="672,546 739,546 739,565 672,565"/>
+        </cell>
+        <cell id="21" neighbors="10:L 20:T 22:B 28:R">
+            <Coords points="672,590 739,590 739,610 672,610"/>
+        </cell>
+        <cell id="22" neighbors="11:L 21:T 23:B 27:R">
+            <Coords points="672,634 739,634 739,653 672,653"/>
+        </cell>
+        <cell id="23" neighbors="16:L 22:T 24:B 26:R">
+            <Coords points="673,680 739,680 739,698 673,698"/>
+        </cell>
+        <cell id="24" neighbors="17:L 23:T 25:R">
+            <Coords points="673,725 738,725 738,743 673,743"/>
+        </cell>
+        <cell id="25" neighbors="24:L 26:T">
+            <Coords points="840,725 884,725 884,744 840,744"/>
+        </cell>
+        <cell id="26" neighbors="23:L 25:B 27:T">
+            <Coords points="838,679 885,679 885,698 838,698"/>
+        </cell>
+        <cell id="27" neighbors="22:L 26:B 28:T">
+            <Coords points="838,635 885,635 885,654 838,654"/>
+        </cell>
+        <cell id="28" neighbors="21:L 27:B 29:T">
+            <Coords points="838,591 885,591 885,610 838,610"/>
+        </cell>
+        <cell id="29" neighbors="19:T 20:L 28:B">
+            <Coords points="828,546 884,546 884,565 828,565"/>
+        </cell>
+    </table>
+</document>

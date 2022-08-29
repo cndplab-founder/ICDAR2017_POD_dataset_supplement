@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="POD_2023.jpg">
+    <table>
+        <Coords points="212,888 835,888 835,1056 212,1056"/>
+        <cell id="0" neighbors="1:B 7:R">
+            <Coords points="213,889 384,889 384,904 213,904"/>
+        </cell>
+        <cell id="1" neighbors="0:T 2:B 8:R">
+            <Coords points="213,910 325,910 325,933 213,933"/>
+        </cell>
+        <cell id="2" neighbors="1:T 3:B 9:R">
+            <Coords points="213,936 429,936 429,957 213,957"/>
+        </cell>
+        <cell id="3" neighbors="2:T 4:B 10:R">
+            <Coords points="212,960 546,960 546,981 212,981"/>
+        </cell>
+        <cell id="4" neighbors="3:T 5:B 11:R">
+            <Coords points="213,986 423,986 423,1008 213,1008"/>
+        </cell>
+        <cell id="5" neighbors="4:T 6:B 12:R">
+            <Coords points="212,1012 578,1012 578,1034 212,1034"/>
+        </cell>
+        <cell id="6" neighbors="5:T 13:R">
+            <Coords points="213,1037 339,1037 339,1056 213,1056"/>
+        </cell>
+        <cell id="7" neighbors="0:L 8:B">
+            <Coords points="600,889 639,889 639,904 600,904"/>
+        </cell>
+        <cell id="8" neighbors="1:L 7:T 9:B">
+            <Coords points="600,912 645,912 645,930 600,930"/>
+        </cell>
+        <cell id="9" neighbors="2:L 8:T 10:B">
+            <Coords points="600,937 652,937 652,955 600,955"/>
+        </cell>
+        <cell id="10" neighbors="3:L 9:T 11:B">
+            <Coords points="598,962 690,962 690,983 598,983"/>
+        </cell>
+        <cell id="11" neighbors="4:L 10:T 12:B">
+            <Coords points="601,988 690,988 690,1008 601,1008"/>
+        </cell>
+        <cell id="12" neighbors="5:L 11:T 13:B">
+            <Coords points="599,1011 689,1011 689,1034 599,1034"/>
+        </cell>
+        <cell id="13" neighbors="6:L 12:T">
+            <Coords points="599,1037 835,1037 835,1056 599,1056"/>
+        </cell>
+    </table>
+</document>

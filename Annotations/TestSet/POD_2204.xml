@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="POD_2204.jpg">
+    <table>
+        <Coords points="369,1013 690,1013 690,1085 369,1085"/>
+        <cell id="0" neighbors="1:R 10:B">
+            <Coords points="412,1020 469,1020 469,1033 412,1033"/>
+        </cell>
+        <cell id="1" neighbors="0:L 2:R 8:B">
+            <Coords points="488,1019 558,1019 558,1037 488,1037"/>
+        </cell>
+        <cell id="2" neighbors="1:L 3:R 7:B">
+            <Coords points="578,1020 614,1020 614,1038 578,1038"/>
+        </cell>
+        <cell id="3" neighbors="2:L 4:B">
+            <Coords points="635,1020 684,1020 684,1037 635,1037"/>
+        </cell>
+        <cell id="4" neighbors="3:T 5:B 7:L">
+            <Coords points="643,1043 675,1043 675,1055 643,1055"/>
+        </cell>
+        <cell id="5" neighbors="4:T 6:L">
+            <Coords points="637,1062 677,1062 677,1077 637,1077"/>
+        </cell>
+        <cell id="6" neighbors="5:R 7:T 9:L">
+            <Coords points="577,1062 618,1062 618,1078 577,1078"/>
+        </cell>
+        <cell id="7" neighbors="2:T 4:R 6:B 8:L">
+            <Coords points="581,1041 612,1041 612,1054 581,1054"/>
+        </cell>
+        <cell id="8" neighbors="1:T 7:R 9:B 10:L">
+            <Coords points="507,1041 541,1041 541,1055 507,1055"/>
+        </cell>
+        <cell id="9" neighbors="6:R 8:T 11:L">
+            <Coords points="500,1062 547,1062 547,1077 500,1077"/>
+        </cell>
+        <cell id="10" neighbors="0:T 8:R 11:B 13:L">
+            <Coords points="423,1043 455,1043 455,1055 423,1055"/>
+        </cell>
+        <cell id="11" neighbors="9:R 10:T 12:L">
+            <Coords points="417,1062 462,1062 462,1078 417,1078"/>
+        </cell>
+        <cell id="12" neighbors="11:R 13:T">
+            <Coords points="378,1062 391,1062 391,1075 378,1075"/>
+        </cell>
+        <cell id="13" neighbors="10:R 12:B">
+            <Coords points="379,1045 391,1045 391,1054 379,1054"/>
+        </cell>
+    </table>
+</document>
